@@ -1,10 +1,10 @@
 # Fak IV: Modulangebot SS20/KursWirrWarr
-This repo contains the code behind the "[Fak IV: Modulangebot SS20 / Kurs WirrWarr](https://docs.google.com/spreadsheets/d/1PUinLo7kEMyUGjpumSx0uliVVIrX3Fa-2kAHdEJIDTA/edit?usp=sharing)" spreadsheet, which was used as a course catalogue for the summer term 2020 at TU Berlin, Faculty 4.
+This repo contains the code behind the "[Fak IV: Modulangebot SS20 / Kurs WirrWarr](https://docs.google.com/spreadsheets/d/1PUinLo7kEMyUGjpumSx0uliVVIrX3Fa-2kAHdEJIDTA/edit?usp=sharing)" spreadsheet, which was used as a course catalog for the summer term 2020 at TU Berlin, Faculty 4.
 
-This spreadsheet was only necessary for this one semester and is not maintained any longer.
+> **Warning** This spreadsheet was only necessary for this one semester and is not maintained any longer.
 
 ## Background information
-During the first corona-semester at TU Berlin, the official course catalogue was not maintained.
+During the first corona-semester at TU Berlin, the official course catalog was not maintained.
 
 **Official alternative:** 
 As a replacement, Faculty 4 published a list with over 250 courses, which were offered during the semester (see [WayBackMachine capture](https://web.archive.org/web/20200813121717/https://www.eecs.tu-berlin.de/menue/studium_und_lehre/aktuelles_zum_sose_2020/modulangebot_im_sose_2020)).
