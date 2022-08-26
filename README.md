@@ -1,5 +1,5 @@
 # Fak IV: Modulangebot SS20/KursWirrWarr
-This repo contains the code behind the "[Fak IV: Modulangebot SS20 / Kurs WirrWarr](https://docs.google.com/spreadsheets/d/1PUinLo7kEMyUGjpumSx0uliVVIrX3Fa-2kAHdEJIDTA/edit?usp=sharing)" spreadsheet, which was used as a course catalog for the summer term 2020 at TU Berlin, Faculty 4.
+This repo contains the code behind the "[Fak IV: Modulangebot SS20 / Kurs WirrWarr](https://docs.google.com/spreadsheets/d/1PUinLo7kEMyUGjpumSx0uliVVIrX3Fa-2kAHdEJIDTA/edit#gid=689835589)" spreadsheet, which was used as an enhanced course catalog for the summer term 2020 at TU Berlin, Faculty 4.
 
 > **Warning** This spreadsheet was only necessary for this one semester and is not maintained any longer.
 
